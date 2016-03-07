@@ -1,4 +1,4 @@
 {
-  "url": "git://github.delivery.puppetlabs.net/puppetlabs-puppet_for_the_win.git",
-  "ref": "origin/master"
+  "url": "https://github.com/ferventcoder/puppet_for_the_win.git",
+  "ref": "origin/ticket/master/PUP-5769-fix-server-override"
 }
